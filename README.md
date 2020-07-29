@@ -1,11 +1,5 @@
 #### pdf-classification as tech and non-tech
 
-### Team Members
-
--Aishwarya R
-
--Vaishnavi V
-
 #### To DO:
 Pdf Classification:
 	
